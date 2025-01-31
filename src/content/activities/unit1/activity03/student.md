@@ -21,11 +21,11 @@ Experimento:
 
 Para implementar esta modificación, cambié la función step() de la siguiente manera:
 
-![Imagen del código] (https://drive.google.com/file/d/1gWHd7lR3IdEZVQeKBzaouttyNXXEChlR/view?usp=share_link)
+![Imagen del código](https://drive.google.com/file/d/1gWHd7lR3IdEZVQeKBzaouttyNXXEChlR/view?usp=share_link)
 
 **4. Resultado al ejecutar el código:**
 
-![Imagen del resultado] (https://drive.google.com/file/d/1gWHd7lR3IdEZVQeKBzaouttyNXXEChlR/view?usp=share_link)
+![Imagen del resultado](https://drive.google.com/file/d/1gWHd7lR3IdEZVQeKBzaouttyNXXEChlR/view?usp=share_link)
 
 **5. Documentación del experimento:**
 
