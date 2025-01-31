@@ -30,7 +30,11 @@ Para implementar esta modificación, cambié la función step() de la siguiente 
 **5. Documentación del experimento:**
 
 **Descripción del experimento:** Modificar el código para que el caminante se mueva una cantidad aleatoria de píxeles (entre 1 y 4) en cada 
+
 **Pregunta:** ¿Cómo afecta la magnitud del paso a la distribución de los puntos en el lienzo?
+
 **Resultados esperados:** Se espera una distribución más dispersa de los puntos, con "saltos" más largos y una menor densidad de puntos alrededor del origen.
+
 **Resultados obtenidos:** Al ejecutar el código modificado, se observa que la distribución de los puntos es efectivamente más dispersa que en la versión original. Los puntos ya no se concentran tanto alrededor del centro del lienzo, sino que se extienden hacia los bordes con mayor facilidad. Se aprecian "saltos" más largos en el recorrido del caminante, lo que genera un patrón visual con una apariencia más "caótica" o "explosiva".
-Aprendizaje: Este experimento me ha permitido comprender cómo la magnitud del paso aleatorio afecta la forma en que se distribuyen los puntos en el lienzo. Un paso mayor genera una dispersión más rápida y un patrón visual menos uniforme. He aprendido que pequeñas modificaciones en el código pueden tener un impacto significativo en el resultado visual, y que la experimentación es clave para comprender y controlar el comportamiento de sistemas con componentes aleatorios.
+
+**Aprendizaje:** Este experimento me ha permitido comprender cómo la magnitud del paso aleatorio afecta la forma en que se distribuyen los puntos en el lienzo. Un paso mayor genera una dispersión más rápida y un patrón visual menos uniforme. He aprendido que pequeñas modificaciones en el código pueden tener un impacto significativo en el resultado visual, y que la experimentación es clave para comprender y controlar el comportamiento de sistemas con componentes aleatorios.
