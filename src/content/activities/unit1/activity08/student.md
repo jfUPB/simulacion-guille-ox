@@ -13,9 +13,12 @@ Esto hace que la obra cambie constantemente, dependiendo de cuántas veces inter
 **2. ¿Qué conceptos estoy usando y por qué?**
 
 **a. Ruido Perlin:** Para generar movimientos más naturales y fluidos en las partículas, en lugar de movimientos completamente aleatorios.
+
 **b. Distribución Normal (randomGaussian):** Para que la distribución inicial de las partículas sea más orgánica y no se vean dispersas sin sentido.
+
 **c. Interacción en Tiempo Real:** Porque el usuario puede cambiar el color y la velocidad de todas las partículas simplemente con un clic, haciendo que la animación evolucione de forma interactiva.
 Referentes e inspiración
+
 **d. Arte generativo:** Creación de una pieza de arte mediante código.
 
 **3. Referentes:**
