@@ -1,4 +1,4 @@
-## Autoevaluación: 3.5/5
+## Reflexión sobre el proceso de aprendizaje
 
 Esta unidad fue un reto porque me costó entender cómo aplicar las fuerzas en las simulaciones. A veces sentía que los conceptos tenían sentido en la teoría, pero al momento de programar me costaba traducirlos en código.
 
