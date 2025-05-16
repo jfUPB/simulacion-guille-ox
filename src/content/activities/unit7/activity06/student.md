@@ -1,4 +1,4 @@
-## Retroalimentación para mejorar la Unidad 7 - Tipografía semántica y Matter.js
+## Retroalimentación para mejorar la Unidad 
 
 1. **Claridad del reto:**
 
