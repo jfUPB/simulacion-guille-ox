@@ -1,0 +1,11 @@
+**Proyecto 1: Scott Draves – "Fractal Flames"**
+
+**- Resumen:** "Fractal Flames" es un sistema generativo que emplea partículas y algoritmos fractales para crear imágenes en constante evolución. Scott Draves diseñó un enfoque basado en ecuaciones matemáticas que permiten la creación de visualizaciones abstractas con patrones hipnóticos y colores vibrantes. Estas imágenes emergen a partir de estructuras caóticas que se transforman de manera orgánica en el tiempo, generando composiciones únicas e impredecibles.
+
+**- Interés y conexión con mi perfil:** Este proyecto me interesa porque explora la belleza de los fractales y la generación procedural de imágenes. Como animadora e ilustradora, podría inspirarme en la forma en que los fractales se desarrollan de manera fluida para crear efectos visuales abstractos en animación o incluso generar texturas y patrones dinámicos para mis ilustraciones. Además, el uso de sistemas de partículas en este proyecto puede abrir posibilidades para desarrollar animaciones generativas que reaccionen a música o a la interacción del usuario.
+
+**Proyecto 2: Quayola – "Transient"**
+
+**- Resumen:** "Transient" es una exploración visual que combina pintura clásica con sistemas de partículas y simulaciones algorítmicas. Quayola toma paisajes tradicionales y los transforma en flujos dinámicos de formas abstractas, imitando pinceladas en movimiento. Su trabajo investiga la relación entre el arte clásico y las tecnologías digitales, creando una experiencia visual donde la materia pictórica se vuelve efímera y en constante cambio.
+
+**- Interés y conexión con tu perfil:** Este proyecto me llama la atención porque desdibuja la línea entre lo pictórico y lo digital, algo clave en la animación y la ilustración contemporánea. Como artista visual, podría explorar técnicas similares para reinterpretar ilustraciones estáticas en animaciones fluidas, generando efectos de pinceladas en movimiento o experimentando con la interacción del espectador. Además, "Transient" demuestra cómo los sistemas de partículas pueden capturar la esencia del trazo manual dentro de entornos digitales, lo que podría influir en la forma en que desarrollo texturas y efectos en mis propias creaciones.
